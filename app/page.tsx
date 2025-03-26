@@ -4,7 +4,7 @@ import Menu from "./components/ui/menu";
 export default function Home() {
   return (
     <div className="">
-      Home Page
+      <h1>Home Page</h1>
     </div>
   );
 }
